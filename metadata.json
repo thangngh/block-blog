@@ -1,0 +1,9 @@
+{
+  "name": "Modern Block Blog",
+  "description": "A full-featured blog platform with a drag-and-drop block editor, version history, review system, and media support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
